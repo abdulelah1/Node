@@ -1,0 +1,10 @@
+{
+  "name": "functions1",
+  "description": "Cloud Functions for Firebase1",
+  "dependencies": {
+    "http": "0.0.0",
+    "mysql": "^2.15.0",
+    "nodemailer": "^4.4.0"
+  },
+  "private": true
+}
